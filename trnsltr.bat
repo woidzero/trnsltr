@@ -1,2 +1,2 @@
-python trnsltr.pyЁ
+python trnsltr.py
 pause
