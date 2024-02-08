@@ -1,2 +1,0 @@
-python trnsltr.py
-pause
