@@ -1,4 +1,4 @@
-from misc import get_list
+from misc.util import get_list
 
 def _help() -> None:
     return print(
